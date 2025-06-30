@@ -79,7 +79,7 @@ flutter run -d chrome # or any connected device
 ## 📊 Performance Analysis
 
 ### DevTools Screenshot
-![DevTools Performance](./Screenshot 2025-06-30 113428.png)
+![DevTools Performance](./demo.png)
 
 - UI Thread: ~1 ms/frame average
 - Raster Thread: ~2–3 ms/frame average
