@@ -92,15 +92,5 @@ flutter run -d chrome # or any connected device
 
 ---
 
-## 📄 License
-MIT
-
----
-
-## ✍️ Author
-Gobind Singh
-
----
-
 ## 📬 Feedback
 Found a bug or have an idea? Open an issue or PR!
